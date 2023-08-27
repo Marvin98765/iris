@@ -1,4 +1,4 @@
-,RGBI_measurement,HSV_measurement,color_measurement,ambient_measurement,reflected_measurement,color_real
+"Index","RGBI_measurement","HSV_measurement","color_measurement","ambient_measurement","reflected_measurement","color_real"
 0,"[198, 200, 198, 198]","(180, 0, 97)",white,0,98,yellow
 1,"[190, 191, 191, 190]","(180, 0, 97)",white,1,74,yellow
 2,"[162, 190, 184, 163]","(180, 0, 97)",white,0,74,yellow

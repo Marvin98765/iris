@@ -1,0 +1,16 @@
+,'RGBI_measurement','HSV_measurement','color_measurement','ambient_measurement','reflected_measurement','color_real'
+0,"[12, 11, 10, 25]","(18, 5, 6)",black,3,25,white_old
+1,"[12, 11, 10, 25]","(20, 5, 6)",black,3,25,white_old
+2,"[12, 11, 10, 25]","(40, 7, 6)",black,3,25,white_old
+3,"[12, 11, 10, 25]","(39, 8, 6)",black,3,11,white_old
+4,"[11, 11, 10, 25]","(43, 7, 6)",black,3,25,white_old
+5,"[11, 11, 10, 25]","(37, 6, 6)",black,2,25,white_old
+6,"[12, 11, 11, 25]","(22, 4, 6)",black,2,25,white_old
+7,"[12, 11, 10, 25]","(27, 5, 6)",black,2,25,white_old
+8,"[12, 11, 10, 25]","(33, 7, 6)",black,2,24,white_old
+9,"[12, 11, 10, 25]","(29, 7, 6)",black,2,24,white_old
+10,"[12, 11, 10, 25]","(32, 7, 6)",black,3,24,white_old
+11,"[11, 11, 11, 25]","(18, 4, 6)",black,3,24,white_old
+12,"[12, 11, 11, 25]","(21, 5, 6)",black,2,24,white_old
+13,"[11, 11, 11, 25]","(28, 5, 6)",black,3,24,white_old
+14,"[11, 11, 10, 25]","(43, 7, 6)",black,3,23,white_old
