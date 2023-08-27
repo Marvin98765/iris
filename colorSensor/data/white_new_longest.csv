@@ -1,0 +1,7 @@
+,RGBI_measurement,HSV_measurement,color_measurement,ambient_measurement,reflected_measurement,color_real
+0,"[17, 17, 17, 37]","(113, 1, 6)",black,0,11,white_new
+1,"[12, 12, 12, 28]","(73, 1, 6)",black,0,11,white_new
+2,"[11, 11, 11, 25]","(90, 1, 6)",black,0,11,white_new
+3,"[12, 12, 12, 28]","(113, 1, 6)",black,0,11,white_new
+4,"[12, 12, 12, 28]","(73, 1, 6)",black,0,12,white_new
+5,"[12, 12, 12, 28]","(90, 1, 6)",black,0,11,white_new

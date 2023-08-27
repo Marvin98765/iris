@@ -1,4 +1,4 @@
-,RGBI_measurement,HSV_measurement,color_measurement,ambient_measurement,reflected_measurement,color_real
+,'RGBI_measurement','HSV_measurement','color_measurement','ambient_measurement','reflected_measurement','color_real'
 0,"[33, 32, 30, 72]","(23, 8, 17)",black,1,44,white_old
 1,"[33, 32, 30, 73]","(27, 8, 17)",black,2,43,white_old
 2,"[33, 32, 30, 72]","(30, 8, 17)",black,3,43,white_old
