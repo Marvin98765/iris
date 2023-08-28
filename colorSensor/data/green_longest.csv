@@ -1,0 +1,16 @@
+,RGBI_measurement,HSV_measurement,color_measurement,ambient_measurement,reflected_measurement,color_real
+0,"[2, 4, 3, 8]","(154, 27, 1)",black,4,28,green
+1,"[2, 3, 3, 7]","(163, 33, 2)",black,5,28,green
+2,"[2, 3, 3, 7]","(162, 32, 2)",black,4,30,green
+3,"[1, 2, 2, 4]","(164, 34, 2)",black,6,30,green
+4,"[2, 3, 3, 7]","(156, 31, 1)",black,4,2,green
+5,"[2, 3, 3, 7]","(153, 31, 2)",black,6,30,green
+6,"[2, 3, 3, 7]","(150, 32, 2)",black,6,4,green
+7,"[2, 3, 3, 7]","(152, 33, 2)",black,4,29,green
+8,"[2, 3, 3, 7]","(151, 26, 1)",black,5,3,green
+9,"[2, 3, 3, 7]","(156, 31, 2)",black,5,27,green
+10,"[2, 3, 2, 6]","(162, 31, 2)",black,5,2,green
+11,"[2, 3, 3, 7]","(148, 34, 2)",black,5,27,green
+12,"[1, 2, 2, 5]","(161, 28, 1)",black,5,28,green
+13,"[2, 3, 2, 6]","(147, 33, 2)",black,5,28,green
+14,"[2, 3, 3, 7]","(164, 31, 1)",black,5,28,green
